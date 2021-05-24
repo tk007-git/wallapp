@@ -60,9 +60,6 @@ An Unofficial API for Walli that allows downloading High-quality wallpapers.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/sumitkolhe/walli-api)
 
-## ✍️ Authors
-
-- [**Sumit Kolhe**](https://github.com/sumitkolhe) - _Author_
 
 ## 📜 License
 
